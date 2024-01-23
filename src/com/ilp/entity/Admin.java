@@ -11,5 +11,4 @@ public class Admin extends User implements IAdminServices{
 	public void deleteLanguage() {
 		System.out.println();
 	}
-
 }
